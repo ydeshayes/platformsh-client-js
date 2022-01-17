@@ -1,5 +1,5 @@
 {
-  "name": "platformsh-client",
+  "name": "@ydeshayes/test-github",
   "version": "0.1.185",
   "description": "Isomorphic Javascript library for accessing the Platform.sh API",
   "browser": "lib/client/platform-api.js",
