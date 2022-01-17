@@ -38,7 +38,7 @@ describe("Client", () => {
       ]
     });
     client.getAccountInfo().then(me => {
-      assert.equal(me.display_name, "test");
+      assert.equal(me.display_name, "test2");
       done();
     });
   });
